@@ -92,12 +92,18 @@ h1 {
 
 
 /* Insert CSS for left earring below this line*/
-
+#earring_left_image
+{
+  top: 80px; left: 40px;
+}
 
 
 
 /* Insert CSS for right earring below this line*/
-
+#earring_right_image
+{
+    top:83px; left: 227px;
+}
 
 
 
